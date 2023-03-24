@@ -2,6 +2,7 @@
 Homework assignments
 
 package task1 / MyFirstAssignment.java /
+
 Напишете програма, която:
 - Чете за име на потребител
 - Чете за любимо хоби на потребителя
