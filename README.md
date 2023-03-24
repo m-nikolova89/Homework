@@ -1,5 +1,6 @@
 # Homework
 Homework assignments
+Решения - src/main/java
 
 package task1 / MyFirstAssignment.java /
 
