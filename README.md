@@ -2,6 +2,7 @@
 Homework assignments
 Решения - src/main/java
 
+Домашно №1
 package task1 / MyFirstAssignment.java /
 
 Напишете програма, която:
@@ -9,6 +10,7 @@ package task1 / MyFirstAssignment.java /
 - Чете за любимо хоби на потребителя
 - Изписва в конзолата подходящо съобщение за потребителя и хобито
 
+Домашно №2
 package task2:
 - Заместете даден под-string в даден string с друг текст. / Replace.java /
 - Сравнете 2 стринга дали са еднакви - подадени от конзолата и изпишете резултата в нея./ Compare.java / 
