@@ -1,7 +1,6 @@
 package task3;
 
 import java.util.Scanner;
-
 public class Rectangle {
         static int areaRectangle(int a, int b){
             int area = a * b;
