@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95c36731-348f-48a5-b6c1-b0f2a7825d26" name="Changes" comment="task">
+    <list default="true" id="95c36731-348f-48a5-b6c1-b0f2a7825d26" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/32f8356f576e798b1f56bd6c4f626afdbf4679a0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56c9771077bb8db0f1f0b29feb24d73c36cab737" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a8f8227decebd33677bc6ef4f683985e30c1bfa" beforeDir="false" />
@@ -16,15 +16,15 @@
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/d/dd2d5b78f8ecc4ae99b4a3ef0e9200c9cca62a6b" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task1/MyFirstAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task1/MyFirstAssignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task2/Compare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task2/Compare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task2/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task2/Count.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task2/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task2/Merge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task2/Replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task2/Replace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task3/Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task3/Check.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task3/DayExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task3/DayExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task3/Largestnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task3/Largestnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task3/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task3/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task1/MyFirstAssignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task1/MyFirstAssignment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task2/Compare.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task2/Compare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task2/Count.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task2/Count.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task2/Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task2/Merge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task2/Replace.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task2/Replace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task3/Check.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task3/Check.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task3/DayExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task3/DayExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task3/Largestnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task3/Largestnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task3/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task3/Rectangle.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,46 +84,7 @@
       <recent name="task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TaskArrSolution">
-    <configuration name="Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task3.Check" />
-      <module name="Homework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DayExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task3.DayExercise" />
-      <module name="Homework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Largestnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task3.Largestnum" />
-      <module name="Homework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TaskArray1and2">
     <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task3.Rectangle" />
       <module name="Homework" />
@@ -137,8 +98,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskArrSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task4.TaskArrSolution" />
+    <configuration name="TaskArray1and2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task4.TaskArray1and2" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskArray3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task4.TaskArray3" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskArray4and5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task4.TaskArray4and5" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskArray6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task4.TaskArray6" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TaskArrSolution" />
+        <item itemvalue="Application.TaskArray1and2" />
+        <item itemvalue="Application.TaskArray6" />
+        <item itemvalue="Application.TaskArray4and5" />
+        <item itemvalue="Application.TaskArray3" />
         <item itemvalue="Application.Rectangle" />
-        <item itemvalue="Application.Largestnum" />
-        <item itemvalue="Application.DayExercise" />
-        <item itemvalue="Application.Check" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679900577019</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1680427394814</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680427394814</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,6 +213,7 @@
     <MESSAGE value="tasks" />
     <MESSAGE value="task3" />
     <MESSAGE value="task" />
-    <option name="LAST_COMMIT_MESSAGE" value="task" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

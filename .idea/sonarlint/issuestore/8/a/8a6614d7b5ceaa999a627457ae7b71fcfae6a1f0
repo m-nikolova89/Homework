@@ -1,0 +1,10 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ΆΣΫόÿÿÿÿ8λο–τ0
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£μ8λο–τ0
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³„ώJ8μο–τ0
+F
+java:S1659"$Declare "second" on a separate line.(¦ρªΊÿÿÿÿÿ8ςο–τ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°άρ–ωÿÿÿÿ8σο–τ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–·£ό8υο–τ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(’δΈϊÿÿÿÿ8υο–τ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…ΆίΪωÿÿÿÿ8φο–τ0
