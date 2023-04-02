@@ -1,7 +1,10 @@
 package task2;
 public class Count {
-    // Function to count total number
-    // of words in the string
+/*
+    Условие:
+    Пребройте колко думи има в един стринг (разделете текста по space)
+    изпишете резултата в нея.
+ */
     public static int
     countWords(String str)
     {

@@ -2,6 +2,10 @@ package task2;
 
 import java.util.Scanner;
 public class Replace {
+    /*
+    Условие:
+    Заместете даден под-string в даден string с друг текст.
+     */
     public static void main(String args[])
     {
         // Replace sub String

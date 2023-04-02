@@ -1,8 +1,14 @@
 package task1;
 
 import java.util.Scanner;
-public class MyFirstAssignment
-{
+public class MyFirstAssignment {
+    /*
+    Условие:
+    Напишете програма, която:
+    - Чете за име на потребител;
+    - Чете за любимо хоби на потребителя;
+    - Изписва в конзолата подходящо съобщение за потребителя и хобито;
+     */
     public static void main(String[] args)
     {
         String name, hobby;

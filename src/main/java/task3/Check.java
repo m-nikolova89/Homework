@@ -3,6 +3,11 @@ package task3;
 import java.util.Scanner;
 
 public class Check {
+    /*
+    Условие:
+    Напишете програма/метод, която чете число
+    и изписва в конзолата дали числото е четно или не.
+     */
     public static void main(String[] args) {
         int a;
 

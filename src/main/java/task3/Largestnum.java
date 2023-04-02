@@ -3,6 +3,11 @@ package task3;
 import java.util.Scanner;
 
 public class Largestnum {
+    /*
+    Условие:
+    Напишете програма/метод, която приема от конзолата
+    3 подадени числа определя кое е най-голямoтo.
+     */
     public static void main(String[] args) {
         int a, b, c;
 

@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95c36731-348f-48a5-b6c1-b0f2a7825d26" name="Changes" comment="task3" />
+    <list default="true" id="95c36731-348f-48a5-b6c1-b0f2a7825d26" name="Changes" comment="task">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/32f8356f576e798b1f56bd6c4f626afdbf4679a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56c9771077bb8db0f1f0b29feb24d73c36cab737" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a8f8227decebd33677bc6ef4f683985e30c1bfa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dd2d5b78f8ecc4ae99b4a3ef0e9200c9cca62a6b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/2/32f8356f576e798b1f56bd6c4f626afdbf4679a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/6/56c9771077bb8db0f1f0b29feb24d73c36cab737" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/a/8a8f8227decebd33677bc6ef4f683985e30c1bfa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/d/dd2d5b78f8ecc4ae99b4a3ef0e9200c9cca62a6b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task1/MyFirstAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task1/MyFirstAssignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task2/Compare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task2/Compare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task2/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task2/Count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task2/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task2/Merge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task2/Replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task2/Replace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task3/Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task3/Check.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task3/DayExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task3/DayExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task3/Largestnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task3/Largestnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task3/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task3/Rectangle.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,10 +53,10 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="2MyD6WVC0ArsojMnkB1DZNEuSzH" />
@@ -57,7 +78,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Rectangle">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="task4" />
+      <recent name="task3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TaskArrSolution">
     <configuration name="Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task3.Check" />
       <module name="Homework" />
@@ -110,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task2.Replace" />
+    <configuration name="TaskArrSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task4.TaskArrSolution" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task2.*" />
+          <option name="PATTERN" value="task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TaskArrSolution" />
         <item itemvalue="Application.Rectangle" />
         <item itemvalue="Application.Largestnum" />
         <item itemvalue="Application.DayExercise" />
         <item itemvalue="Application.Check" />
-        <item itemvalue="Application.Replace" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679900156709</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="task">
+      <created>1679900577019</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679900577019</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -171,6 +205,7 @@
     <MESSAGE value="qa task #2" />
     <MESSAGE value="tasks" />
     <MESSAGE value="task3" />
-    <option name="LAST_COMMIT_MESSAGE" value="task3" />
+    <MESSAGE value="task" />
+    <option name="LAST_COMMIT_MESSAGE" value="task" />
   </component>
 </project>

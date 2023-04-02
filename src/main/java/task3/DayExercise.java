@@ -1,6 +1,11 @@
 package task3;
 import java.util.Scanner;
 public class DayExercise {
+    /*
+    Условие:
+    Напишете програма/ метод, която чете число от 1 до 7 в конзолата
+    и на базата на това изписва в конзолата деня от седмицата във формат.
+     */
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
@@ -22,7 +27,6 @@ public class DayExercise {
             case 7: dayName = "Sunday"; break;
             default:dayName = "Invalid day";
         }
-
         return dayName;
     }
 }
