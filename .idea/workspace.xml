@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95c36731-348f-48a5-b6c1-b0f2a7825d26" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/32f8356f576e798b1f56bd6c4f626afdbf4679a0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a6614d7b5ceaa999a627457ae7b71fcfae6a1f0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a8f8227decebd33677bc6ef4f683985e30c1bfa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dd2d5b78f8ecc4ae99b4a3ef0e9200c9cca62a6b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/2/32f8356f576e798b1f56bd6c4f626afdbf4679a0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/a/8a6614d7b5ceaa999a627457ae7b71fcfae6a1f0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/a/8a8f8227decebd33677bc6ef4f683985e30c1bfa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/d/dd2d5b78f8ecc4ae99b4a3ef0e9200c9cca62a6b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task1/MyFirstAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task1/MyFirstAssignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task4/TaskArray6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task4/TaskArray6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task1/MyFirstAssignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task1/MyFirstAssignment.class" afterDir="false" />
-    </list>
+    <list default="true" id="95c36731-348f-48a5-b6c1-b0f2a7825d26" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -198,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680427394814</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1680632211012</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680632211012</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
