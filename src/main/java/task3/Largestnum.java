@@ -11,14 +11,14 @@ public class Largestnum {
     public static void main(String[] args) {
         int a, b, c;
 
-        Scanner SC = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter number for a: ");
-        a = Integer.parseInt(SC.next());
+        a = Integer.parseInt(sc.next());
         System.out.print("Enter number for b: ");
-        b = Integer.parseInt(SC.next());
+        b = Integer.parseInt(sc.next());
         System.out.print("Enter number for c: ");
-        c = Integer.parseInt(SC.next());
+        c = Integer.parseInt(sc.next());
 
         //Comparing numbers a,b,c;
         if (a >= b && a >= c)

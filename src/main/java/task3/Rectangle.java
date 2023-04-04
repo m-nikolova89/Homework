@@ -18,11 +18,11 @@ public class Rectangle {
     public static void main(String[] args) {
         int a, b;
 
-        Scanner SC = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.print("Enter number for a: ");
-        a = Integer.parseInt(SC.next());
+        a = Integer.parseInt(sc.next());
         System.out.print("Enter number for b: ");
-        b = Integer.parseInt(SC.next());
+        b = Integer.parseInt(sc.next());
         System.out.println("Area = "+ areaRectangle(a,b));
         System.out.println("Perimeter = "+ perimeterRectangle(a,b));
     }

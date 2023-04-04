@@ -1,13 +1,0 @@
-
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ÿì8€Š’ò0
-y
-java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "area".(Ù÷æ8Š’ò0
-ƒ
-java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "perimeter".(´ü´ıÿÿÿÿ8Š’ò0
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­Ãôª8‚Š’ò0
-A
-java:S1659"Declare "b" on a separate line.(äöÍÖşÿÿÿÿ8‘Š’ò0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(­ãõµ8”Š’ò0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(›¦­õüÿÿÿÿ8–Š’ò0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(è“ã¬øÿÿÿÿ8˜Š’ò0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(˜¬é¤8šŠ’ò0

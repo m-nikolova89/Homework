@@ -11,17 +11,27 @@ public class TaskArray6 {
      */
     public static void main(String[] args) {
         int first = 0, second=1;
-        int N;
-        System.out.print("Enter how many Fibonaci numbers to print: ");
-        Scanner SC = new Scanner(System.in);
-        N = SC.nextInt();
-        System.out.print("The first " + N + " Fibonacci numbers are: ");
-        System.out.print(first + " " + second);
-        for (int i = 1; i <= N-2; ++i) {
-           int sum = first + second;
+        int n;
+
+        System.out.print("Enter how many Fibonacci numbers to print: ");
+        Scanner sc = new Scanner(System.in);
+        n = sc.nextInt();
+        int [] fArray= new int[n];
+
+        System.out.print("The first " + n + " Fibonacci numbers are: ");
+        System.out.print(first + " " + second);//todo add if
+
+        for (int i = 1; i <= n-2; ++i) {
+           int next = first + second;
            first = second;
-           second = sum;
-           System.out.print(" " + sum);
+           second = next;
+           System.out.print(" " + next);
+           fArray[i-1]= first;
+           fArray[i]= second;
+        }
+        System.out.println();
+        for (int i = 0; i < fArray.length; i++) {
+            System.out.println(fArray[i]);
         }
     }
 }

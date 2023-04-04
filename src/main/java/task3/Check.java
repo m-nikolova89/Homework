@@ -11,9 +11,9 @@ public class Check {
     public static void main(String[] args) {
         int a;
 
-        Scanner SC = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.print("Enter number for a: ");
-        a = Integer.parseInt(SC.next());
+        a = Integer.parseInt(sc.next());
 
         //Check is a is ODD or Even
         if (a %2 == 0)
