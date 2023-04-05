@@ -15,13 +15,12 @@ public class MyFirstAssignment {
 
         Scanner sc=new Scanner(System.in);
 
-        System.out.print("Enter name: ");
+        System.out.println("Enter name: ");
         name= sc.nextLine();
 
-        System.out.print("Enter Hobby: ");
+        System.out.println("Enter Hobby: ");
         hobby=sc.nextLine();
-
-        System.out.println();
+        
         System.out.println("Nice to meet you " + name + "!");
         System.out.println("It's good to hear that you love " + hobby + "!");
     }
