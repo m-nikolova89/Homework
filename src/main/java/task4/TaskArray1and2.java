@@ -11,9 +11,11 @@ public class TaskArray1and2 {
         double sum = 0;
         // Initializes each of the elements with a value
         // starting from 0, 1, 2, 3....19
+
         for (int i = 0; i < arr.length; i++) {
-            arr[i] = i*5;
+
             // Formula for multiplying each element by 5.
+            arr[i] = i*5;
             System.out.print(arr[i]);
             System.out.print("||");
         }
@@ -24,9 +26,11 @@ public class TaskArray1and2 {
          */
         System.out.println("\n---------------------------");
         System.out.println("Calculating average of array [i] from 0...19:");
+
         for (int i = 0; i < arr.length; i++) {
             arr[i] = i;
             sum += arr[i];}
+
         {
             double average = sum / arr.length;
             System.out.print("Average value of array is: " + average);

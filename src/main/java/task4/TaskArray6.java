@@ -22,9 +22,11 @@ public class TaskArray6 {
             if (i <= 1)
                 next = i;
             else
+
                 next = first + second;
-            first = second;
-            second = next;
+                first = second;
+                second = next;
+
             System.out.print(next + " ");
 
         }

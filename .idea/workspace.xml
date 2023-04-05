@@ -5,14 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95c36731-348f-48a5-b6c1-b0f2a7825d26" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f240d65889e0cca3bbfabe3a66c3ef0377bc348" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4aa8d6ace06a4bef49e535662aa06978ea8063bd" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4eea73e976043c83ffd77fb29e67fe662c723d33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e742840704ad6af465d97e9e5c507a67214d26b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/70232f7d376cb2438e5dbd533e18793dc959bb42" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/f/1f240d65889e0cca3bbfabe3a66c3ef0377bc348" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/a/4aa8d6ace06a4bef49e535662aa06978ea8063bd" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/e/4eea73e976043c83ffd77fb29e67fe662c723d33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/e/5e742840704ad6af465d97e9e5c507a67214d26b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/0/70232f7d376cb2438e5dbd533e18793dc959bb42" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task4/TaskArray1and2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task4/TaskArray1and2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task4/TaskArray3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task4/TaskArray3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task4/TaskArray4and5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task4/TaskArray4and5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/task4/TaskArray6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task4/TaskArray6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task1/MyFirstAssignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task1/MyFirstAssignment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/task2/Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task2/Merge.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/task4/TaskArray6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task4/TaskArray6.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +32,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Record" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -59,43 +70,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="task5" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="task4" />
       <recent name="task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TaskArray6">
-    <configuration name="Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task3.Check" />
+  <component name="RunManager" selected="Application.Car">
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task5.Car" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Largestnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task3.Largestnum" />
-      <module name="Homework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task3.*" />
+          <option name="PATTERN" value="task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task3.Rectangle" />
+    <configuration name="TaskArray4and5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task4.TaskArray4and5" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task3.*" />
+          <option name="PATTERN" value="task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,13 +143,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestVehicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task5.TestVehicle" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Car" />
+        <item itemvalue="Application.TestVehicle" />
+        <item itemvalue="Application.TaskArray4and5" />
         <item itemvalue="Application.TaskArray6" />
         <item itemvalue="Application.MyFirstAssignment" />
-        <item itemvalue="Application.Rectangle" />
-        <item itemvalue="Application.Largestnum" />
-        <item itemvalue="Application.Check" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680673899377</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <created>1680675107540</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680675107540</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
