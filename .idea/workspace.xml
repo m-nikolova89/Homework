@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95c36731-348f-48a5-b6c1-b0f2a7825d26" name="Changes" comment="update" />
+    <list default="true" id="95c36731-348f-48a5-b6c1-b0f2a7825d26" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4eea73e976043c83ffd77fb29e67fe662c723d33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/e/4eea73e976043c83ffd77fb29e67fe662c723d33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task4/TaskArray6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task4/TaskArray6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task1/MyFirstAssignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task1/MyFirstAssignment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task2/Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task2/Merge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task4/TaskArray6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task4/TaskArray6.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +48,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2MyD6WVC0ArsojMnkB1DZNEuSzH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -63,7 +76,7 @@
       <recent name="task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Rectangle">
+  <component name="RunManager" selected="Application.TaskArray6">
     <configuration name="Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task3.Check" />
       <module name="Homework" />
@@ -131,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TaskArray6" />
+        <item itemvalue="Application.MyFirstAssignment" />
         <item itemvalue="Application.Rectangle" />
         <item itemvalue="Application.Largestnum" />
         <item itemvalue="Application.Check" />
-        <item itemvalue="Application.MyFirstAssignment" />
-        <item itemvalue="Application.TaskArray6" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680632211012</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update">
+      <created>1680673899377</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680673899377</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

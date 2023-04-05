@@ -25,9 +25,20 @@ public class TaskArray6 {
                 next = first + second;
             first = second;
             second = next;
-            System.out.print(next + " ");// TODO: 5.4.2023 г. add array to calculate sum
+            System.out.print(next + " ");
 
         }
+
+        System.out.println("\nThe sum of n Fibonacci series is : " + sumOfFibonacci(n-1));
+
+    }
+        // Calculate sum of Fibonacci series
+        public static int sumOfFibonacci(int n) {
+        if(n <= 0)
+            return 0;
+        if(n == 1)
+            return 1;
+        return sumOfFibonacci(n-1)+sumOfFibonacci(n-2) + 1;
     }
 }
 
