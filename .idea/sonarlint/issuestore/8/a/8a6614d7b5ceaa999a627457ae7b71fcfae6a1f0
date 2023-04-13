@@ -1,0 +1,10 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³„şJ8ìÓ£€õ0
+¤
+java:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(ëâÄß8¦òåõ0
+e
+java:S1659"CDeclare "second" and all following declarations on a separate line.(•¦¦şúÿÿÿÿ8ıÓ£€õ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(äÄìä8€Ô£€õ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(º”ÌÍúÿÿÿÿ8€Ô£€õ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ±øÒúÿÿÿÿ8˜›æõ0
+U	java:S106""9Replace this use of System.out or System.err by a logger.(²¼øÎ8™›æõ0
