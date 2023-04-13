@@ -16,7 +16,8 @@ public class Rectangle {
             return perimeter;
         }
     public static void main(String[] args) {
-        int a, b;
+        int a;
+        int b;
 
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number for a: ");

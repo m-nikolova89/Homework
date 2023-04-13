@@ -14,7 +14,7 @@ public class TaskArray6 {
         int first = 0, second = 1, next;
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Еnter Fibonacci number:");
+        System.out.println("Enter Fibonacci number:");
         int n = sc.nextInt();
         System.out.println("Fibonacci series is ");
 

@@ -11,7 +11,8 @@ public class MyFirstAssignment {
      */
     public static void main(String[] args)
     {
-        String name, hobby;
+        String name;
+        String hobby;
 
         Scanner sc=new Scanner(System.in);
 

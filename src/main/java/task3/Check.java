@@ -15,7 +15,7 @@ public class Check {
         System.out.print("Enter number for a: ");
         a = Integer.parseInt(sc.next());
 
-        //Check is a is ODD or Even
+        //Check if the entered number is ODD or Even
         if (a %2 == 0)
             System.out.println(a + " is Even");
         else
