@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95c36731-348f-48a5-b6c1-b0f2a7825d26" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/target/classes/task1/MyFirstAssignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task1/MyFirstAssignment.class" afterDir="false" />
-    </list>
+    <list default="true" id="95c36731-348f-48a5-b6c1-b0f2a7825d26" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
