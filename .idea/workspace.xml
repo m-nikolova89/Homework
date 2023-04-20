@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95c36731-348f-48a5-b6c1-b0f2a7825d26" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f240d65889e0cca3bbfabe3a66c3ef0377bc348" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/27a9bc8fe86cb83201f6a810cd397befc6826be5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a8f8227decebd33677bc6ef4f683985e30c1bfa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d119500f9868d2b5c392db206da6c6e2a01547d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/ebcf84edbf9794fa0b3cf87f47cd7b18436dcbd9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/edf9d2bf6dc61afabc5ed5bc3d3d6db4200ba9cf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f03527bd20c0e1640228e7d066418565026c5f8e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/f/1f240d65889e0cca3bbfabe3a66c3ef0377bc348" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/7/27a9bc8fe86cb83201f6a810cd397befc6826be5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/a/8a8f8227decebd33677bc6ef4f683985e30c1bfa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/d/8d119500f9868d2b5c392db206da6c6e2a01547d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/b/ebcf84edbf9794fa0b3cf87f47cd7b18436dcbd9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/d/edf9d2bf6dc61afabc5ed5bc3d3d6db4200ba9cf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/0/f03527bd20c0e1640228e7d066418565026c5f8e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task3/Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task3/Check.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task3/DayExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task3/DayExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task3/Largestnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task3/LargestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task3/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task3/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task4/TaskArray6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task4/TaskArray6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task6/CheckNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task6/CheckNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task1/MyFirstAssignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/task1/MyFirstAssignment.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +73,7 @@
       <recent name="task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyFirstAssignment">
+  <component name="RunManager" selected="Application.Password">
     <configuration name="CheckNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task6.CheckNum" />
       <module name="Homework" />
@@ -163,9 +141,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Password" />
         <item itemvalue="Application.MyFirstAssignment" />
         <item itemvalue="Application.Compare" />
-        <item itemvalue="Application.Password" />
         <item itemvalue="Application.CheckNum" />
         <item itemvalue="Application.TaskArray1and2" />
       </list>
@@ -243,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680715123477</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update">
+      <created>1682003627597</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682003627598</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
