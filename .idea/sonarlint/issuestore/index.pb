@@ -23,7 +23,3 @@ S
 #src/main/java/task4/TaskArray6.java,8\a\8a6614d7b5ceaa999a627457ae7b71fcfae6a1f0
 Q
 !src/main/java/task6/Password.java,e\e\ee56879251882a233466c1a35868f29b40f925fb
-Q
-!src/main/java/task6/CheckNum.java,2\7\27a9bc8fe86cb83201f6a810cd397befc6826be5
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

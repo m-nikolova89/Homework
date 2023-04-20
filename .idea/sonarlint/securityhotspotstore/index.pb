@@ -23,7 +23,3 @@ R
 "src/main/java/task3/Rectangle.java,8\a\8a9958a5c9534cf269b919d223780a8b4a9dc41a
 Q
 !src/main/java/task6/Password.java,e\e\ee56879251882a233466c1a35868f29b40f925fb
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-Q
-!src/main/java/task6/CheckNum.java,2\7\27a9bc8fe86cb83201f6a810cd397befc6826be5
