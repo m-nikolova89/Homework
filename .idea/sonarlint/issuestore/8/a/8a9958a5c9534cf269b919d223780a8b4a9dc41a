@@ -1,6 +1,6 @@
 
-y
-java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "area".(Ù÷æ8Š’ò0
-ƒ
-java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "perimeter".(´ü´ıÿÿÿÿ8Š’ò0
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­Ãôª8‚Š’ò0
+r
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "area".(Ù÷æ
+|
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "perimeter".(´ü´ıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­Ãôª

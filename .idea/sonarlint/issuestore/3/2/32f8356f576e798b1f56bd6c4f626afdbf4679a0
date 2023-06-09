@@ -1,10 +1,6 @@
 
-l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹»¶T8Ë±âğ0
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü‡éˆ8Í±âğ0
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ñ´ßùÿÿÿÿ8Î±âğ0
-L
-java:S1197	"*Move the array designators [] to the type.(º ìıÿÿÿÿ8Ø±âğ0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(íÑÂøÿÿÿÿ8Û±âğ0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ıÜîÄûÿÿÿÿ8Ü±âğ0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ª´ø¨şÿÿÿÿ8Ü±âğ0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(–õÍ¥ıÿÿÿÿ8İ±âğ0
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹»¶T
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü‡éˆ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ñ´ßùÿÿÿÿ
+E
+java:S1197	"*Move the array designators [] to the type.(º ìıÿÿÿÿ

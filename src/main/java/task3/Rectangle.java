@@ -2,11 +2,7 @@ package task3;
 
 import java.util.Scanner;
 public class Rectangle {
-    /*
-    Условие:
-    Напишете програма/метод, която за подадени дължина и височина на правоъгълник
-    изкарват на конзолата неговият периметър и лице.
-     */
+
         static int areaRectangle(int a, int b){
             int area = a * b;
             return area;

@@ -1,10 +1,6 @@
 package task2;
 public class Count {
-/*
-    Условие:
-    Пребройте колко думи има в един стринг (разделете текста по space)
-    изпишете резултата в нея.
- */
+
     public static int
     countWords(String str)
     {
@@ -23,7 +19,7 @@ public class Count {
         // in the given string
         return words.length;
     }
-    public static void main(String args[])
+    public static void main(String[] args)
     {
 
         // Given String str

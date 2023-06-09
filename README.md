@@ -1,9 +1,6 @@
-# Homework
-Homework assignments
 
-Решения - src/main/java
+    Homework assignments - Automation QA
 
-Всички условия са описани в началото на всеки клас!
 
 
 
